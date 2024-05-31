@@ -121,6 +121,7 @@ body {
 @media (max-width: 600px) {
     .typewriter p {
         font-size: 18px;
+        margin-left: 100px;
     }
     
     .plate {
@@ -136,6 +137,7 @@ body {
     .candle {
         width: 7px;
         height: 20px;
+        margin-top: 25px;
     }
 
     .flame {
@@ -143,7 +145,8 @@ body {
     }
 
     .silhouette {
-        width: 60px; /* Adjust size for mobile view */
+        width: 300px; /* Adjust size as needed */
+    height: auto; /* Adjust size for mobile view */
     }
 }
 .emoticon {
