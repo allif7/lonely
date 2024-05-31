@@ -121,32 +121,26 @@ body {
 @media (max-width: 600px) {
     .typewriter p {
         font-size: 18px;
-        margin-left: 100px;
     }
     
     .plate {
-        width: 80px;
-        height: 15px;
+        display: none;
     }
 
     .layer {
-        width: 70px;
-        height: 15px;
+        display: none;
     }
 
     .candle {
-        width: 7px;
-        height: 20px;
-        margin-top: 25px;
+        display: none;
     }
 
     .flame {
-        border-bottom: 7px solid orange;
+        display: none;
     }
 
     .silhouette {
-        width: 300px; /* Adjust size as needed */
-    height: auto; /* Adjust size for mobile view */
+        display: none; /* Adjust size for mobile view */
     }
 }
 .emoticon {
