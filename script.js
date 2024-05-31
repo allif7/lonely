@@ -1,5 +1,5 @@
 const sentences = [
-    "happy birthday :)"
+    "happy birthday to me :)"
 ];
 
 let currentSentence = 0;
